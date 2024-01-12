@@ -191,6 +191,7 @@
   width: 100%;
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
   align-items: center;
   padding-top: var(--dl-space-space-fourunits);
   padding-left: var(--dl-space-space-threeunits);
@@ -198,7 +199,7 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fourunits);
   justify-content: center;
-  background-color: #f9f9eb;
+  background-color: #e8f4fd;
 }
 .home-container02 {
   display: flex;
